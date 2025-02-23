@@ -18,7 +18,7 @@ Model Evaluation: The project evaluates the performance of the neural network mo
 Getting Started
 To run this project locally, follow these steps:
 
-Clone the repository: gh repo clone MYoussef885/Breast_Cancer_Classification_using_NN
+Clone the repository
 Install the required libraries:  If you're using Google Colab, you don't need to pip install. Just follow the importing the dependencies section.
 Launch Google Colab: https://colab.research.google.com/
 Open the Breast_Cancer_Classification.ipynb file and run the notebook cells sequentially.
