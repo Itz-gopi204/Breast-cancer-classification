@@ -11,9 +11,9 @@ Data Visualization: The project utilizes data visualization techniques to gain i
 
 Train-Test Split: To evaluate the performance of the neural network model, the project employs the train-test split technique. The dataset is divided into training and testing subsets, ensuring that the model is trained on a portion of the data and evaluated on unseen data. This allows for an accurate assessment of the model's ability to generalize to new samples.
 
-Neural Network Model: The project utilizes a neural network architecture to build the classification model. Deep learning techniques, such as multi-layer perceptron (MLP), are employed to learn complex patterns and relationships within the dataset. The Scikit-learn library provides an implementation of MLP that is used in this project.
+Neural Network Model: The project utilizes a neural network architecture to build the classification model.
 
-Model Evaluation: The project evaluates the performance of the neural network model using evaluation metrics such as accuracy, precision, recall, and F1 score. These metrics provide insights into the model's ability to correctly classify malignant and benign breast cancer samples. Additionally, visualizations such as confusion matrices are created to compare the predicted labels against the actual labels.
+Model Evaluation: The project evaluates the performance of the neural network model using evaluation metrics such as accuracy. These metrics provide insights into the model's ability to correctly classify malignant and benign breast cancer samples. Additionally, visualizations such as confusion matrices can be created to compare the predicted labels against the actual labels.
 
 Getting Started
 To run this project locally, follow these steps:
